@@ -78,7 +78,7 @@ Having Trouble?
 
 ### Retrospective
 
-### Weekend Assignment Due Monday, June 28th, 12 pm PST
+### Weekend Assignment Due Monday, July 26th, 12 pm PT
 
 You are going to do all of your work at this repo:
 

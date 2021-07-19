@@ -8,7 +8,7 @@
 - Pomodoro + To Do List Productivity App
 - Quiz / Study Guide
 
-### Weekend Assignment Due Monday, July 12th, 12 pm PST
+### Weekend Assignment Due Wednesday, Aug 11th, 7 pm PT
 - [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)
 
 BARE MINIMUM REQUIREMENTS 
