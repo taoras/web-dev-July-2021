@@ -9,8 +9,9 @@
 - AppendElement
 - querySelector
 - querySelectorAll
-- querySelector
-- querySelectorAll
+- classList.add
+- classList.remove
+- if, else if, else statements
 
 ## Where you do your work:
 https://github.com/Vets-In-Tech/week3HWJune2021

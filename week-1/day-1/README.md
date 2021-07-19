@@ -67,6 +67,7 @@ Because it is used in your emails, websites are everywhere and in just about eve
 ### Resources
 
 **[Visual Studio Code](https://code.visualstudio.com/)** <br>
+**[HTML Cheatsheet](https://htmlcheatsheet.com)** <br>
 **[Spectacle](https://www.spectacleapp.com/)**  <br>
 **[HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)** <br>
 **[W3Schools Tag List](http://www.w3schools.com/tags/default.asp)** <br>
