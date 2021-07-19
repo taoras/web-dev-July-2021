@@ -9,20 +9,7 @@
 - Quiz / Study Guide
 
 ### Weekend Assignment Due Wednesday, Aug 11th, 7 pm PT
-- [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)
 
-BARE MINIMUM REQUIREMENTS 
-- As long as you create animated carousel as was demonstrated on Tuesday and you create a javascript carousel that you can change images by clicking next or previous buttons you have reached our skillset benchmark for week 2.
-
-For a challenge, try implementing any or all of the bullets below
-- Use an external style sheet instead of internal or inline
-- Import the external js file instead of a script tag
-- Center the carousel window in the middle of screen using margin or flex
-- Use position absolute and position relative to move the buttons inside of the window div for users to click
-- If you do not use the above,  center the buttons underneathe the center carousel window
-- Add some conditional logic to your javascript code to prevent users from translating the imageSlider too far in either direction
-- Add console logs to see what your current position is any time the prevImage or nextImage functions are invoked
-- Automate your js carousel with setTimeout, and make it move forwards then backwards once it renders the last image on the screen (see video)
 
 #### Reference
 - [Intro to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)

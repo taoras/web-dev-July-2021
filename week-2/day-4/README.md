@@ -20,6 +20,9 @@ https://github.com/Vets-In-Tech/week2HWJune2021
 ### Weekend Assignment Due Monday, Aug 2nd, 12 pm PT
 - [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)
 
+You are going to do all of your work at this repo:
+**[Homework 2 Assignment](https://github.com/Vets-In-Tech/week2HWJuly2021)** <br>
+
 BARE MINIMUM REQUIREMENTS 
 - As long as you create animated carousel as was demonstrated on Tuesday and you create a javascript carousel that you can change images by clicking next or previous buttons you have reached our skillset benchmark for week 2.
 

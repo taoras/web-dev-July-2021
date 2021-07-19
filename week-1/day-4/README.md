@@ -82,7 +82,8 @@ Having Trouble?
 
 You are going to do all of your work at this repo:
 
-https://github.com/Vets-In-Tech/week1HWJune2021
+**[Homework 1 Assignment](https://github.com/Vets-In-Tech/week1HWJuly2021)** <br>
+
 
 Take a look at the brochure image file in the assignment folder!
 
