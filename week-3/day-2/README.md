@@ -3,8 +3,11 @@
 ## Week 3 Day 2
 
 ### Learning Objectives
-
+- array methods (push, pop)
+- conditional statement
 - loops (For Loop & While loop Only)
+
+
 - SetTimeout
 - SetInterval
 - Time

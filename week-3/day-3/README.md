@@ -29,7 +29,7 @@ modals are very helpful and frequently used in web development.
 
 ### Things students forget
 Credit to Jonas Schmedtmann below
-- Cascade: "The process of combining different stylesheets and resolving conflicts between different CSS rules and declarations, when more than one rule applies to a certain element"
+- Cascade: "The process of combining different stylesheets and resolving conflicts between different CSS rules and declarations, when more than one rule applies to a certain element" -Jonas Schmedtmann, Web Developer, Designer, and Teacher
 - IMPORTANCE > SPECIFICITY > SOURCE ORDER
 -CSS declarations marked with !important have the highest priority
 -Inline styles have priority over external stylesheets

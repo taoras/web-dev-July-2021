@@ -4,10 +4,13 @@
 
 
 ### Learning Objectives
-- Array Methods
-- String Methods
-- Pulling data from input
 - JS Calculator
+- Pulling data from input
+- conditional statements
+- String Methods
+    - includes
+- Accessing Information From arrays
+- parseInt
 
 ## Agenda
 
