@@ -1,0 +1,29 @@
+div {
+  background-image:
+      url("./images/25minWorking.jpg");
+}
+#app {
+    display-box:flex;
+    flex-direction:column;
+    max-width: 600px;
+    margin:100px auto;
+  }
+  
+  #app h1 {
+    font-size: 15em;
+    text-align: center;
+    line-height: 1em;
+  }
+  
+  #app h4 {
+    font-size: 1em;
+    text-align: center;
+    margin-bottom: 100px;
+    font-style:inherit;
+  }
+  
+  #app button {
+    scroll-margin-top: 20px;
+  }
+
+
